@@ -2,7 +2,7 @@
 
 A retro-tech themed, fully responsive personal portfolio website showcasing my work in **Compilers, Java (J2EE)**, **Web Development**, **Data-driven applications**, and **Interactive visualizations** using **D3.js** & **Cytoscape.js**.
 
-Live Portfolio: _Add URL once deployed (Netlify recommended)_
+Live Portfolio: [https://srijansundaram.netlify.app/](https://srijansundaram.netlify.app/)
 GitHub: [https://github.com/srijansundaram](https://github.com/srijansundaram)
 
 ---
